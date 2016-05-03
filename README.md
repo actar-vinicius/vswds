@@ -1,5 +1,5 @@
 # vswds
-very simple watchdog script
+Very Simple WatchDog Script
 
 This script is intended to run on cron and keep the customer's scripts running if they failed.
 It is not suitable to high frequency neither real time checks.
